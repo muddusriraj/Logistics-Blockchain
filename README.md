@@ -7,3 +7,4 @@ This program is a prototype which demonstrates a component in the optimization o
   - Increased efficiency in the supply chain process due to the ease of data sharing and communication among parties involved within the supply chain
   - Decreased manual administrative requirements due to a digitized and automated data storage process which greatly reduces manual data entry necessary for logistics operations
   - Promoted collaboration due to a lack of a central authority
+![projectlogo](https://github.com/muddusriraj/Logistics-Blockchain/assets/18118254/b1f54fa4-2070-48ac-bae4-d56897646aab)
